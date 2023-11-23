@@ -32,21 +32,21 @@ class Rezept {
 
 
 
-// class RezepteBearbeitung {
-//   List<Rezept> rezepte = [];
+// // class RezepteBearbeitung {
+// //   List<Rezept> rezepte = [];
 
-//   void addRezept(Rezept newRezept) {
-//     rezepte.add(newRezept);
-//   }
+// //   void addRezept(Rezept newRezept) {
+// //     rezepte.add(newRezept);
+// //   }
 
-//   void editRezept(Rezept oldRezept, Rezept newRezept) {
-//     final index = rezepte.indexOf(oldRezept);
-//     if (index != -1) {
-//       rezepte[index] = newRezept;
-//     }
-//   }
+// //   void editRezept(Rezept oldRezept, Rezept newRezept) {
+// //     final index = rezepte.indexOf(oldRezept);
+// //     if (index != -1) {
+// //       rezepte[index] = newRezept;
+// //     }
+// //   }
 
-//   void removeRezept(Rezept newRezept) {
-//     rezepte.remove(newRezept);
-//   }
-// }
+// //   void removeRezept(Rezept newRezept) {
+// //     rezepte.remove(newRezept);
+// //   }
+// // }

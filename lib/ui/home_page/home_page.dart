@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:rezeptbuch/ui/home_page/home_section.dart';
 import 'package:rezeptbuch/ui/home_page/profile_section.dart';
-import 'package:rezeptbuch/ui/home_page/recipe_section.dart';
+import 'package:rezeptbuch/ui/home_page/recipeSection.dart/recipe_section.dart';
 import 'package:rezeptbuch/ui/home_page/shopping_section.dart';
 import 'package:rezeptbuch/ui/home_page/weekly_plan_section.dart';
 
